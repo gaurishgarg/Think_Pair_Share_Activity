@@ -1,0 +1,8 @@
+# Windows system files
+desktop.ini
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Windows folder customization
+$RECYCLE.BIN/
